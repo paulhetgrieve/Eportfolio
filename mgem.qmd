@@ -1,5 +1,5 @@
 ---
-title: "Masters of Geomatics for Environmental Management"
+title: "UBC MGEM"
 format: html
 editor: visual
 ---
