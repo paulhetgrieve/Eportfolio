@@ -1,39 +1,162 @@
 ---
-title: "Resume"
+title: "CV/Resume"
+---
+# Professional Summary
+
+I am a terrestrial biologist with over five years of experience in the resource conservation sector, working across invasive plant management, terrestrial and aquatic restoration, aquatic research, and long-term small mammal monitoring programs. I hold a master’s degree and have extensive experience working with diverse spatial datasets, with strong proficiency in Python and R for data analysis and ecological modelling.
+
+Since 2020, I have led native seed collection and high-elevation restoration initiatives, implemented integrated pest management strategies, and supported multi-taxa ecological integrity monitoring programs. I thrive in both field-based and office environments and enjoy collaborative work environments where constructive feedback and continuous learning are valued.
+
+---
+
+# Work and Volunteer Experience
+
+## Graduate Teaching Assistant (GTA II)
+University of British Columbia  
+Jan 2026 – Apr 2026
+
+- Led laboratory sessions for geomatics courses
+- Graded laboratory assignments and provided feedback
+- Hosted office hours and supported an inclusive learning environment
+
+## Resource Management Technician II
+Mount Revelstoke and Glacier National Parks  
+May 2022 – Aug 2025
+
+- Planned and led implementation of the invasive plant management strategy for four field seasons
+- Assisted in Whitebark pine monitoring including:
+  - Seedling assessments
+  - Regional health transects
+  - Cone caging and tree climbing
+  - Seedling planting
+  - Habitat suitability analysis
+- Supported ecological integrity monitoring programs including:
+  - Pika monitoring
+  - Amphibian monitoring
+  - Bat acoustic monitoring
+- Completed remote camera classification and contributed to annual reporting
+
+## Fire and Vegetation Student Technician / Crew Lead
+Banff National Park  
+Jun 2020 – Nov 2021
+
+- Collected, organized, and visualized geospatial data for long-term vegetation and invasive species management
+- Conducted riverine habitat assessments and whirling disease monitoring
+- Deployed and maintained water temperature loggers
+- Conducted CABIN monitoring using:
+  - HACH velocity meters
+  - YSI multi-parameter sondes
+- Completed the second year of eDNA trials in Johnson Lake
+
+## Student Intern
+Land Trust of British Columbia  
+Jan 2020 – Feb 2020
+
+- Conducted repeat photography analysis
+- Assisted with grant applications
+- Developed Passport to Nature educational programming
+
+## UVic Ecological Restoration Club (ERC) — Co-founder
+May 2016 – Jun 2019
+
+- Co-founded the club and developed a five-year restoration plan for a degraded Camas meadow on the University of Victoria campus
+- Led programs to:
+  - Seed native plants
+  - Propagate native species
+  - Transplant plants for meadow restoration
+- Collaborated with restoration organizations including:
+  - Galiano Island Conservancy
+  - Saanich Native Plants
+  - PEPÁḴEṈ HÁUTW̱
+  - Native Student Union
+  - Satinflower Nurseries
+
+## Outdoor Education Instructor / Guide / Team Leader
+YMCA-YWCA of Vancouver Island  
+May 2016 – Jun 2019
+
+- Supervised and supported staff members and volunteers
+- Planned and guided multi-day kayak, canoe, and hiking expeditions in remote locations
+
 ---
 
 # Education
 
--   List your education here.
+## University of British Columbia
+Master of Geomatics for Environmental Management (MGEM)  
+Apr 2026
+
+## University of Victoria
+B.Sc. Biology with Distinction  
+Specialization: Forest Biology and Environmental Studies  
+Apr 2021
+
+---
 
 # Publications
 
-*Peer-reviewed publications:*
+- Modelling critical habitat for the Eastern Whip-poor-will (Antrostomus vociferus) in Georgian Bay, Ontario: Comparing the maximum entropy model and multi-criteria decision analysis framework  
+- DOI: TBD
 
--   List any peer-reviewed publications here.
+---
 
-*Reports:*
+# Qualifications and Skills
 
--   List any non-peer reviewed materials you'd like to share here.
+- Experienced in terrestrial, aquatic, and subalpine restoration planning, implementation, and monitoring
+- Experienced planning and leading integrated pest management strategies across multiple jurisdictions
+- Proficient in ecological modelling using:
+  - MaxEnt
+  - Multi-criteria decision analysis
+- Strong geospatial workflow experience using:
+  - ESRI products
+  - PostGIS
+  - RStudio
+  - Python
+- Experienced in data cleaning, preprocessing, automation, analysis, and visualization using Python and R
+- Extensive field monitoring experience including:
+  - Wildlife occupancy (birds, bats, amphibians, mammals)
+  - Remote camera classification
+  - CABIN monitoring
+  - eDNA sampling
+  - Terrestrial and aquatic habitat assessments
+- Experienced in project design and implementation including multi-year restoration planning and pilot project development
+- Over five years of leadership and supervisory experience
 
-# Conferences & Talks
+---
 
-*Invited Talks*
+# Certifications and Workshops
 
--   If you've been invited to speak in a professional setting, list that here.
+- Wilderness First Aid (50-hour) and Standard First Aid
+- FME Workbench Academy I
+- Ecological Monitoring Workshop – Integrated Ecological Restoration
+- Assistant Pesticide Applicator License
+- Swiftwater Rescue I
+- Marine Radio Operator’s License
+- Pleasure Craft Operator Card
+- Assistant Overnight Kayak Guide (AOG)
 
-*Conference Presentations*
+---
 
--   If the presentation was at a conference, list them here.
+# Professional Associations
 
-# Awards & Honors
+- College of Applied Biology — Biologist in Training (Apr 2025 – Present)
 
--   List any scholarships, bursaries, etc.
+---
 
-# Teaching Assistantships
+# Academic Awards
 
--   List any TA positions you may have held.
+- President’s Scholarship
+- Melburn Brenton Scholarship
+- Financial bursaries from the University of Victoria based on GPA (2018–2020)
+- UVic Dean’s List — Awarded to the top 10% of science students (2016–2020)
 
-# Institutional Service
+---
 
--   Volunteering etc.
+# Recreational Pursuits
+
+- Rare bird and plant road trips
+- Bird watching
+- Making pottery
+- Hiking
+- Kayaking / canoeing
+- Cross-country skiing

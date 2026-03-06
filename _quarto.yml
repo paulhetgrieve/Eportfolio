@@ -1,15 +1,15 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/pgrieve.stu/OneDrive - UBC/Documents/GitHub/Eportfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Paul's E-Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: resume.qmd
-        text: Resume
+        text: CV/Resume
       - href: publications.qmd
         text: Publications
       - href: content.qmd

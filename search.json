@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My E-Portfolio",
+    "title": "Paul’s E-Portfolio",
     "section": "",
-    "text": "Hey there people,\nThis is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.\nWrite something about myself, very exciting."
+    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Resume",
+    "title": "CV/Resume",
     "section": "",
-    "text": "Education\n\nList your education here.\n\n\n\nPublications\nPeer-reviewed publications:\n\nList any peer-reviewed publications here.\n\nReports:\n\nList any non-peer reviewed materials you’d like to share here.\n\n\n\nConferences & Talks\nInvited Talks\n\nIf you’ve been invited to speak in a professional setting, list that here.\n\nConference Presentations\n\nIf the presentation was at a conference, list them here.\n\n\n\nAwards & Honors\n\nList any scholarships, bursaries, etc.\n\n\n\nTeaching Assistantships\n\nList any TA positions you may have held.\n\n\n\nInstitutional Service\n\nVolunteering etc."
+    "text": "I am a terrestrial biologist with over five years of experience in the resource conservation sector, working across invasive plant management, terrestrial and aquatic restoration, aquatic research, and long-term small mammal monitoring programs. I hold a master’s degree and have extensive experience working with diverse spatial datasets, with strong proficiency in Python and R for data analysis and ecological modelling.\nSince 2020, I have led native seed collection and high-elevation restoration initiatives, implemented integrated pest management strategies, and supported multi-taxa ecological integrity monitoring programs. I thrive in both field-based and office environments and enjoy collaborative work environments where constructive feedback and continuous learning are valued."
   },
   {
     "objectID": "publications.html",
@@ -54,5 +54,68 @@
     "title": "Content & Deliverables",
     "section": "",
     "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "resume.html#graduate-teaching-assistant-gta-ii",
+    "href": "resume.html#graduate-teaching-assistant-gta-ii",
+    "title": "CV/Resume",
+    "section": "Graduate Teaching Assistant (GTA II)",
+    "text": "Graduate Teaching Assistant (GTA II)\nUniversity of British Columbia\nJan 2026 – Apr 2026\n\nLed laboratory sessions for geomatics courses\nGraded laboratory assignments and provided feedback\nHosted office hours and supported an inclusive learning environment"
+  },
+  {
+    "objectID": "resume.html#resource-management-technician-ii",
+    "href": "resume.html#resource-management-technician-ii",
+    "title": "CV/Resume",
+    "section": "Resource Management Technician II",
+    "text": "Resource Management Technician II\nMount Revelstoke and Glacier National Parks\nMay 2022 – Aug 2025\n\nPlanned and led implementation of the invasive plant management strategy for four field seasons\nAssisted in Whitebark pine monitoring including:\n\nSeedling assessments\nRegional health transects\nCone caging and tree climbing\nSeedling planting\nHabitat suitability analysis\n\nSupported ecological integrity monitoring programs including:\n\nPika monitoring\nAmphibian monitoring\nBat acoustic monitoring\n\nCompleted remote camera classification and contributed to annual reporting"
+  },
+  {
+    "objectID": "resume.html#fire-and-vegetation-student-technician-crew-lead",
+    "href": "resume.html#fire-and-vegetation-student-technician-crew-lead",
+    "title": "CV/Resume",
+    "section": "Fire and Vegetation Student Technician / Crew Lead",
+    "text": "Fire and Vegetation Student Technician / Crew Lead\nBanff National Park\nJun 2020 – Nov 2021\n\nCollected, organized, and visualized geospatial data for long-term vegetation and invasive species management\nConducted riverine habitat assessments and whirling disease monitoring\nDeployed and maintained water temperature loggers\nConducted CABIN monitoring using:\n\nHACH velocity meters\nYSI multi-parameter sondes\n\nCompleted the second year of eDNA trials in Johnson Lake"
+  },
+  {
+    "objectID": "resume.html#student-intern",
+    "href": "resume.html#student-intern",
+    "title": "CV/Resume",
+    "section": "Student Intern",
+    "text": "Student Intern\nLand Trust of British Columbia\nJan 2020 – Feb 2020\n\nConducted repeat photography analysis\nAssisted with grant applications\nDeveloped Passport to Nature educational programming"
+  },
+  {
+    "objectID": "resume.html#uvic-ecological-restoration-club-erc-co-founder",
+    "href": "resume.html#uvic-ecological-restoration-club-erc-co-founder",
+    "title": "CV/Resume",
+    "section": "UVic Ecological Restoration Club (ERC) — Co-founder",
+    "text": "UVic Ecological Restoration Club (ERC) — Co-founder\nMay 2016 – Jun 2019\n\nCo-founded the club and developed a five-year restoration plan for a degraded Camas meadow on the University of Victoria campus\nLed programs to:\n\nSeed native plants\nPropagate native species\nTransplant plants for meadow restoration\n\nCollaborated with restoration organizations including:\n\nGaliano Island Conservancy\nSaanich Native Plants\nPEPÁḴEṈ HÁUTW̱\nNative Student Union\nSatinflower Nurseries"
+  },
+  {
+    "objectID": "resume.html#outdoor-education-instructor-guide-team-leader",
+    "href": "resume.html#outdoor-education-instructor-guide-team-leader",
+    "title": "CV/Resume",
+    "section": "Outdoor Education Instructor / Guide / Team Leader",
+    "text": "Outdoor Education Instructor / Guide / Team Leader\nYMCA-YWCA of Vancouver Island\nMay 2016 – Jun 2019\n\nSupervised and supported staff members and volunteers\nPlanned and guided multi-day kayak, canoe, and hiking expeditions in remote locations"
+  },
+  {
+    "objectID": "resume.html#university-of-british-columbia",
+    "href": "resume.html#university-of-british-columbia",
+    "title": "CV/Resume",
+    "section": "University of British Columbia",
+    "text": "University of British Columbia\nMaster of Geomatics for Environmental Management (MGEM)\nApr 2026"
+  },
+  {
+    "objectID": "resume.html#university-of-victoria",
+    "href": "resume.html#university-of-victoria",
+    "title": "CV/Resume",
+    "section": "University of Victoria",
+    "text": "University of Victoria\nB.Sc. Biology with Distinction\nSpecialization: Forest Biology and Environmental Studies\nApr 2021"
+  },
+  {
+    "objectID": "index.html#introductions",
+    "href": "index.html#introductions",
+    "title": "Paul’s E-Portfolio",
+    "section": "",
+    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul"
   }
 ]

@@ -1,26 +1,33 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Paul's E-Portfolio"
+image: "images/profile_icon.png"
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/paul-grieve-b806051ba/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/paulhetgrieve
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:pgrieve@student.ubc.ca
 ---
 
-Hey there people,
+## Introductions
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
+Hello all! 
+My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.
 
-Write something about myself, very exciting.
+---
+
+In my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.
+
+---
+
+Feel free to reach out via LinkedIn, GitHub , or email!
+Yours frondly,
+
+Paul
