@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Paul’s E-Portfolio",
     "section": "",
-    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul"
+    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul\n\n\n\nSir Donald Mountain, Glacier National Park"
   },
   {
     "objectID": "resume.html",
@@ -116,7 +116,7 @@
     "href": "index.html#introductions",
     "title": "Paul’s E-Portfolio",
     "section": "",
-    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul"
+    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul\n\n\n\nSir Donald Mountain, Glacier National Park"
   },
   {
     "objectID": "publications.html#modelling-critical-habitat-for-the-eastern-whip-poor-will-antrostomus-vociferus-in-georgian-bay-ontario-comparing-the-maximum-entropy-model-and-multi-criteria-decision-analysis-framework.",
@@ -131,5 +131,138 @@
     "title": "Publications",
     "section": "Journal: Borealis, MGEM project Library",
     "text": "Journal: Borealis, MGEM project Library\ndoi: tbd"
+  },
+  {
+    "objectID": "mgem.html",
+    "href": "mgem.html",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "",
+    "text": "This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.\n\n\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\n\n\n\n\n\n\n\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)\n\n\n\n\n\n\nYou can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "mgem.html#leaflet",
+    "href": "mgem.html#leaflet",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "",
+    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
+  },
+  {
+    "objectID": "mgem.html#code-snippets",
+    "href": "mgem.html#code-snippets",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "",
+    "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+  },
+  {
+    "objectID": "mgem.html#external-links",
+    "href": "mgem.html#external-links",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "",
+    "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "work_exp.html",
+    "href": "work_exp.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Since 2020, I have worked in the Resource Management Department of Parks Canada in three National Parks: Banff, Glacier, and Revelstoke. In the Resource Management Department I have worked within Freshwater Aquatics, Fire and Vegetation, Wildlife Coexistence, and Ecological Integrity Monitoring teams. Within all of these roles I was responsible for the collection, maintenance, and analysis of geospatial data concerning a variety of habitats and projects.\nOutside of resource conservation, I have experience working as a receptionist, cashier, barista, social media director, and fundraiser."
+  },
+  {
+    "objectID": "work_exp.html#leaflet",
+    "href": "work_exp.html#leaflet",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
+  },
+  {
+    "objectID": "work_exp.html#code-snippets",
+    "href": "work_exp.html#code-snippets",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+  },
+  {
+    "objectID": "work_exp.html#external-links",
+    "href": "work_exp.html#external-links",
+    "title": "Work Experience",
+    "section": "",
+    "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "work_exp.html#executive-statement",
+    "href": "work_exp.html#executive-statement",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Since 2020, I have worked in the Resource Management Department of Parks Canada in three National Parks: Banff, Glacier, and Revelstoke. In the Resource Management Department I have worked within Freshwater Aquatics, Fire and Vegetation, Wildlife Coexistence, and Ecological Integrity Monitoring teams. Within all of these roles I was responsible for the collection, maintenance, and analysis of geospatial data concerning a variety of habitats and projects.\nOutside of resource conservation, I have experience working as a receptionist, cashier, barista, social media director, and fundraiser."
+  },
+  {
+    "objectID": "work_exp.html#mount-revelstoke-and-glacier-national-parks",
+    "href": "work_exp.html#mount-revelstoke-and-glacier-national-parks",
+    "title": "Professional Experience",
+    "section": "Mount Revelstoke and Glacier National Parks",
+    "text": "Mount Revelstoke and Glacier National Parks\n\n2022 - present\nFrom the summer of 2022 to the summer of 2025, I worked as a Resource Management Technician II for Mount Revelstoke and Glacier National Parks. Though some days were long and arduous, they were also some of most memorable in my career.\nIn this role:\n\nCoordinated park-specific invasive plant management strategies\nSupervised and taught field staff on plant identification, management strategies, and tree climbing techniques\nCreated subalpine restoration and native seed collection programs, and coordinated low elevation restoration programs\nAssisted in long-term health studies of Endangered white bark pine ecosystems, collected and cleaned cones using arborist techniques, and co-created a 10-year restoration plan\nLed the geospatial analysis of suitable white bark pine habitat to coordinate future restoration plans using VRI, ground truth data, NDVI and other vegetation metrics.\nAssisted in winter tracking, remote camera deployment and image classification, and annual reporting."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies and Interests",
+    "section": "",
+    "text": "I am a terrestrial biologist with over five years of experience in the resource conservation sector, working across invasive plant management, terrestrial and aquatic restoration, and long-term small mammal monitoring programs. I hold a master’s degree and have extensive experience working with diverse spatial datasets, with strong proficiency in Python and R for data analysis and ecological modelling.\nSince 2020, I have led native seed collection and high-elevation restoration initiatives, implemented integrated pest management strategies, and supported multi-taxa ecological integrity monitoring programs. I thrive in both field-based and office environments and enjoy collaborative work environments where constructive feedback and continuous learning are valued."
+  },
+  {
+    "objectID": "hobbies.html#graduate-teaching-assistant-gta-ii",
+    "href": "hobbies.html#graduate-teaching-assistant-gta-ii",
+    "title": "Hobbies and Interests",
+    "section": "Graduate Teaching Assistant (GTA II)",
+    "text": "Graduate Teaching Assistant (GTA II)\nUniversity of British Columbia\nJan 2026 – Apr 2026\n\nLed laboratory sessions for geomatics courses\nGraded laboratory assignments and provided feedback\nHosted office hours and supported an inclusive learning environment"
+  },
+  {
+    "objectID": "hobbies.html#resource-management-technician-ii",
+    "href": "hobbies.html#resource-management-technician-ii",
+    "title": "Hobbies and Interests",
+    "section": "Resource Management Technician II",
+    "text": "Resource Management Technician II\nMount Revelstoke and Glacier National Parks\nMay 2022 – Aug 2025\n\nPlanned and led implementation of the invasive plant management strategy for four field seasons\nAssisted in Whitebark pine monitoring including:\n\nSeedling assessments\nRegional health transects\nCone caging and tree climbing\nSeedling planting\nHabitat suitability analysis\n\nSupported ecological integrity monitoring programs including:\n\nPika monitoring\nAmphibian monitoring\nBat acoustic monitoring\n\nCompleted remote camera classification and contributed to annual reporting"
+  },
+  {
+    "objectID": "hobbies.html#fire-and-vegetation-student-technician-crew-lead",
+    "href": "hobbies.html#fire-and-vegetation-student-technician-crew-lead",
+    "title": "Hobbies and Interests",
+    "section": "Fire and Vegetation Student Technician / Crew Lead",
+    "text": "Fire and Vegetation Student Technician / Crew Lead\nBanff National Park\nJun 2020 – Nov 2021\n\nCollected, organized, and visualized geospatial data for long-term vegetation and invasive species management\nConducted riverine habitat assessments and whirling disease monitoring\nDeployed and maintained water temperature loggers\nConducted CABIN monitoring using:\n\nHACH velocity meters\nYSI multi-parameter sondes\n\nCompleted the second year of eDNA trials in Johnson Lake"
+  },
+  {
+    "objectID": "hobbies.html#student-intern",
+    "href": "hobbies.html#student-intern",
+    "title": "Hobbies and Interests",
+    "section": "Student Intern",
+    "text": "Student Intern\nLand Trust of British Columbia\nJan 2020 – Feb 2020\n\nConducted repeat photography analysis\nAssisted with grant applications\nDeveloped Passport to Nature educational programming"
+  },
+  {
+    "objectID": "hobbies.html#uvic-ecological-restoration-club-erc-co-founder",
+    "href": "hobbies.html#uvic-ecological-restoration-club-erc-co-founder",
+    "title": "Hobbies and Interests",
+    "section": "UVic Ecological Restoration Club (ERC) — Co-founder",
+    "text": "UVic Ecological Restoration Club (ERC) — Co-founder\nMay 2016 – Jun 2019\n\nCo-founded the club and developed a five-year restoration plan for a degraded Camas meadow on the University of Victoria campus\nLed programs to:\n\nSeed native plants\nPropagate native species\nTransplant plants for meadow restoration\n\nCollaborated with restoration organizations including:\n\nGaliano Island Conservancy\nSaanich Native Plants\nPEPÁḴEṈ HÁUTW̱\nNative Student Union\nSatinflower Nurseries"
+  },
+  {
+    "objectID": "hobbies.html#outdoor-education-instructor-guide-team-leader",
+    "href": "hobbies.html#outdoor-education-instructor-guide-team-leader",
+    "title": "Hobbies and Interests",
+    "section": "Outdoor Education Instructor / Guide / Team Leader",
+    "text": "Outdoor Education Instructor / Guide / Team Leader\nYMCA-YWCA of Vancouver Island\nMay 2016 – Jun 2019\n\nSupervised and supported staff members and volunteers\nPlanned and guided multi-day kayak, canoe, and hiking expeditions in remote locations"
+  },
+  {
+    "objectID": "hobbies.html#university-of-british-columbia",
+    "href": "hobbies.html#university-of-british-columbia",
+    "title": "Hobbies and Interests",
+    "section": "University of British Columbia",
+    "text": "University of British Columbia\nMaster of Geomatics for Environmental Management (MGEM)\nApr 2026"
+  },
+  {
+    "objectID": "hobbies.html#university-of-victoria",
+    "href": "hobbies.html#university-of-victoria",
+    "title": "Hobbies and Interests",
+    "section": "University of Victoria",
+    "text": "University of Victoria\nB.Sc. Biology with Distinction\nSpecialization: Forest Biology and Environmental Studies\nApr 2021"
   }
 ]

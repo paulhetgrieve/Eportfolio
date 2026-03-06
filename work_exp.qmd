@@ -1,75 +1,48 @@
 ---
-title: "Work Experience"
+title: "Professional Experience"
 format: html
 editor: visual
 ---
 
-# Project 1 - Capstone Deliverables
+## Executive Statement
 
-This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
+Since 2020, I have worked in the Resource Management Department of Parks Canada in three National Parks: Banff, Glacier, and Revelstoke. In the Resource Management Department I have worked within Freshwater Aquatics, Fire and Vegetation, Wildlife Coexistence, and Ecological Integrity Monitoring teams. Within all of these roles I was responsible for the collection, maintenance, and analysis of geospatial data concerning a variety of habitats and projects.
 
-If you've produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.
+Outside of resource conservation, I have experience working as a receptionist, cashier, barista, social media director, and fundraiser.
 
-## Leaflet
+![](images/pearly.jpg){fig-align="center" width="60%" fig-cap="Pearly Rock Trail, Glacier National Park"}
 
-Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page [here](https://ubc-mgem-fcor599.github.io/FCOR-599-Workshops/Interactive_Maps/leaflet.html).
+## Mount Revelstoke and Glacier National Parks
+### 2022 - present
 
-```{r leaflet, include = FALSE}
-library(dplyr); library(leaflet)
+From the summer of 2022 to the summer of 2025, I worked as a Resource Management Technician II for Mount Revelstoke and Glacier National Parks. Though some days were long and arduous, they were also some of most memorable in my career.
 
-m <- leaflet() %>%
-  addProviderTiles("Esri.WorldImagery") %>%
-  addScaleBar(position = c("bottomleft")) %>%
-  setView(-123.1207, 49.2827, zoom = 11)
 
-```
+In this role:
 
-```{r map, echo=FALSE}
-m
-```
+- Coordinated park-specific invasive plant management strategies
+- Supervised and taught field staff on plant identification, management strategies, and tree climbing techniques
+- Created subalpine restoration and native seed collection programs, and coordinated low elevation restoration programs
+- Assisted in long-term health studies of Endangered white bark pine ecosystems, collected and cleaned cones using arborist techniques, and co-created a 10-year restoration plan
+- Led the geospatial analysis of suitable white bark pine habitat to coordinate future restoration plans using VRI, ground truth data, NDVI and other vegetation metrics.
+- Assisted in winter tracking, remote camera deployment and image classification, and annual reporting.
 
-## Code Snippets
 
-Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a 'tabset' in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let's showcase a function for calculating NDVI in R and Python.
+::: {.columns}
 
-::: {.panel-tabset group="language"}
-## R
-
-``` (.r)
-calc_ndvi <- function(nir, red){
-  ndvi <- (nir-red)/(nir+red)
-  return(ndvi)
-}
-```
-
-(Assuming *nir* and *red* are terra rast objects)
-
-## Python
-
-``` (.python)
-def calc_ndvi(nir, red): 
-  ndvi = (nir - red)/(nir + red)
-  return(ndvi)
-```
-
-(Assuming *nir* and *red* are numpy arrays)
+::: {.column width="33%"}
+![](images/treeclimb.jpg)
 :::
 
-## External links
+::: {.column width="33%"}
+![](images/ursus.jpg)
+:::
 
-You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:
+::: {.column width="33%"}
+![](images/planting.jpg)
+:::
+:::
 
-```{code}
 
-<iframe width="900" height="700"
-src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool">
-</iframe>
-```
 
-The full-screen GEE application is available [here](https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool) in case you're interested.
 
-(To use the GEE tool, navigate to any city you'd like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)
-
-```{=html}
-<iframe width="900" height="700" src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool"></iframe>
-```
