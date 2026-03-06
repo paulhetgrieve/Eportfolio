@@ -11,14 +11,14 @@
     "href": "resume.html",
     "title": "CV/Resume",
     "section": "",
-    "text": "I am a terrestrial biologist with over five years of experience in the resource conservation sector, working across invasive plant management, terrestrial and aquatic restoration, aquatic research, and long-term small mammal monitoring programs. I hold a master’s degree and have extensive experience working with diverse spatial datasets, with strong proficiency in Python and R for data analysis and ecological modelling.\nSince 2020, I have led native seed collection and high-elevation restoration initiatives, implemented integrated pest management strategies, and supported multi-taxa ecological integrity monitoring programs. I thrive in both field-based and office environments and enjoy collaborative work environments where constructive feedback and continuous learning are valued."
+    "text": "I am a terrestrial biologist with over five years of experience in the resource conservation sector, working across invasive plant management, terrestrial and aquatic restoration, and long-term small mammal monitoring programs. I hold a master’s degree and have extensive experience working with diverse spatial datasets, with strong proficiency in Python and R for data analysis and ecological modelling.\nSince 2020, I have led native seed collection and high-elevation restoration initiatives, implemented integrated pest management strategies, and supported multi-taxa ecological integrity monitoring programs. I thrive in both field-based and office environments and enjoy collaborative work environments where constructive feedback and continuous learning are valued."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Peer-reviewed publications:\nDespite listing them on your resume, it may also be pertinent to create a seperate tab for publications and reports. As your career progresses, this list may become quite long, so be sure to organize things. You may want to point to ‘most recent’ publications, or categorize things by project/topic."
+    "text": "Masters of Geomatics for Environmental Management: Capstone Project\n\nModelling critical habitat for the Eastern Whip-poor-will (Antrostomus vociferus) in Georgian Bay, Ontario: Comparing the maximum entropy model and multi-criteria decision analysis framework.\nJournal: Borealis, MGEM project Library\ndoi: tbd"
   },
   {
     "objectID": "content_development.html",
@@ -117,5 +117,19 @@
     "title": "Paul’s E-Portfolio",
     "section": "",
     "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email! Yours frondly,\nPaul"
+  },
+  {
+    "objectID": "publications.html#modelling-critical-habitat-for-the-eastern-whip-poor-will-antrostomus-vociferus-in-georgian-bay-ontario-comparing-the-maximum-entropy-model-and-multi-criteria-decision-analysis-framework.",
+    "href": "publications.html#modelling-critical-habitat-for-the-eastern-whip-poor-will-antrostomus-vociferus-in-georgian-bay-ontario-comparing-the-maximum-entropy-model-and-multi-criteria-decision-analysis-framework.",
+    "title": "Publications",
+    "section": "Modelling critical habitat for the Eastern Whip-poor-will (Antrostomus vociferus) in Georgian Bay, Ontario: Comparing the maximum entropy model and multi-criteria decision analysis framework.",
+    "text": "Modelling critical habitat for the Eastern Whip-poor-will (Antrostomus vociferus) in Georgian Bay, Ontario: Comparing the maximum entropy model and multi-criteria decision analysis framework.\n\ndoi: tbd"
+  },
+  {
+    "objectID": "publications.html#journal-borealis-mgem-project-library",
+    "href": "publications.html#journal-borealis-mgem-project-library",
+    "title": "Publications",
+    "section": "Journal: Borealis, MGEM project Library",
+    "text": "Journal: Borealis, MGEM project Library\ndoi: tbd"
   }
 ]

@@ -10,10 +10,13 @@ website:
         text: Home
       - href: resume.qmd
         text: CV/Resume
+      - href: work_exp.qmd
+        text: Professional Work Experience
+      - href: mgem.qmd
+        text: Masters of Geomatics for Environmental Management
       - href: publications.qmd
         text: Publications
-      - href: content.qmd
-        text: Content & Deliverables
+      
 
 format:
   html:
