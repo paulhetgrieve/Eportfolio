@@ -14,6 +14,8 @@ website:
         text: Work Experience
       - href: mgem.qmd
         text: MGEM
+      - href: hobbies.qmd
+        text: Hobbies/Interests
       - href: publications.qmd
         text: Publications
       
