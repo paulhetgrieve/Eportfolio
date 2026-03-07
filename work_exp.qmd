@@ -34,17 +34,16 @@ In this role:
 :::: {.columns}
 
 ::: {.column width="33%"}
-![](images/treeclimb.jpg){width="100%"}
+![](images/treeclimb.jpg){height="532px" width="400px"}
 :::
 
 ::: {.column width="33%"}
-![](images/planting2.jpg){width="100%"}
+![](images/ursus.jpg){height="532px" width="400px"}
 :::
 
 ::: {.column width="33%"}
-![](images/ursus.jpg){width="100%"}
+![](images/planting.jpg){height="532px" width="400px"}
 :::
-
 
 ::::
 
@@ -67,29 +66,16 @@ In this role, I had the opportunity to complete:
 
 :::: {.columns}
 
-::: {.column}
+::: {.column width="33%"}
 ![](images/tent.jpg){width="100%"}
 :::
 
-::: {.column}
+::: {.column width="33%"}
 ![](images/brook.jpg){width="100%"}
 :::
 
-::: {.column}
+::: {.column width="33%"}
 ![](images/heli.jpg){width="100%"}
-:::
-
-
-::: {.column}
-![](images/measure.jpg){width="100%"}
-:::
-
-::: {.column}
-![](images/baldhills.jpg){width="100%"}
-:::
-
-::: {.column}
-![](images/cabin.jpg){width="100%"}
 :::
 
 ::::

@@ -4,72 +4,51 @@ format: html
 editor: visual
 ---
 
-# Project 1 - Capstone Deliverables
+## Summary of Program
 
-This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
+From August 2025 – April 2026, I completed the MGEM program at the University of British Columbia. In this program we dove into advanced geospatial topics including, but not limited to:
 
-If you've produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.
+- Hydrological analysis and linear referencing
+- Least cost analysis and multi-criteria analysis
+- Lidar, raster, sf object, and time series analysis in python and R
+- Data manipulation, quality assurance, and data cleaning in python and R
+- Academic writing, professional conduct, and ethics
+- Project creation, analysis, and reporting
 
-## Leaflet
+---
 
-Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page [here](https://ubc-mgem-fcor599.github.io/FCOR-599-Workshops/Interactive_Maps/leaflet.html).
+## Capstone Project
+### Predicting suitable habitat using MaxEnt and MCDA for the Eastern Whip-poor-will
 
-```{r leaflet, include = FALSE}
-library(dplyr); library(leaflet)
+A core part of this program is the capstone project, where I created and compared two habitat suitability models for the Eastern Whip-poor-will in Eastern Georgian Bay, Ontario.
 
-m <- leaflet() %>%
-  addProviderTiles("Esri.WorldImagery") %>%
-  addScaleBar(position = c("bottomleft")) %>%
-  setView(-123.1207, 49.2827, zoom = 11)
+![](images/easternwhip.jpg)
+--- 
 
-```
+In this project I compiled known locations of Whip-poor-will presence and a variety of environmental predicting variables (e.g. forest structure, tree species, distance to openings and water, etc) to create two suitability models: Maximum Entropy (MaxEnt) and Multi-Criteria Decision Analysis (MCDA).
 
-```{r map, echo=FALSE}
-m
-```
+MaxEnt is a machine learning algorithm that relates known presence locations to the surrounding environmental variables. In constrast, MCDA relies on expert knowledge to define suitability thresholds and weights of environmental variables.
 
-## Code Snippets
+:::: {.columns}
 
-Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a 'tabset' in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let's showcase a function for calculating NDVI in R and Python.
-
-::: {.panel-tabset group="language"}
-## R
-
-``` (.r)
-calc_ndvi <- function(nir, red){
-  ndvi <- (nir-red)/(nir+red)
-  return(ndvi)
-}
-```
-
-(Assuming *nir* and *red* are terra rast objects)
-
-## Python
-
-``` (.python)
-def calc_ndvi(nir, red): 
-  ndvi = (nir - red)/(nir + red)
-  return(ndvi)
-```
-
-(Assuming *nir* and *red* are numpy arrays)
+::: {.column width="50%"}
+![](images/MaxEnt Layout.png){width="100%"}
 :::
 
-## External links
+::: {.column width="50%"}
+![](images/MCDA Layout.png){width="100%"}
+:::
+::::
 
-You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:
+The end product are two maps that represent the spatial distribution of suitable habitat for the Eastern Whip-poor-will.
+These maps are then subtracted from one another to elucidate areas of similarity and dissimilarity between the two models.
 
-```{code}
 
-<iframe width="900" height="700"
-src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool">
-</iframe>
-```
+![](images/Difference Layout.png)
 
-The full-screen GEE application is available [here](https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool) in case you're interested.
+High suitability areas in either model were evaluated for future conservation easements by the Georgian Bay Land Trust.
 
-(To use the GEE tool, navigate to any city you'd like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)
+---
 
-```{=html}
-<iframe width="900" height="700" src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool"></iframe>
-```
+## Other Projects
+

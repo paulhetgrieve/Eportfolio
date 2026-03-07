@@ -10,21 +10,18 @@ I love being outside an am an avid hiker, kayaker, biker, canoer, fisher, birder
 
 :::: {.columns}
 
-::: {.column}
+::: {.column width="33%"}
 ![](images/hike1.jpg){width="100%"}
 :::
 
-::: {.column}
+::: {.column width="33%"}
 ![](images/botany.jpg){width="100%"}
 :::
 
-::: {.column}
+::: {.column width="33%"}
 ![](images/fish.jpg){width="100%"}
 :::
 
-::: {.column}
-![](images/kayak.jpg){width="100%"}
-:::
 
 ::::
 

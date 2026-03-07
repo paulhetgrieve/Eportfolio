@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Paul’s E-Portfolio",
     "section": "",
-    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email!\nYours frondly,\nPaul\n\n\n\nSir Donald Mountain, Glacier National Park"
+    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email!\nYours frondly,\nPaul\n\n\n\nSir Donald in Glacier National Park"
   },
   {
     "objectID": "resume.html",
@@ -116,7 +116,7 @@
     "href": "index.html#introductions",
     "title": "Paul’s E-Portfolio",
     "section": "",
-    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email!\nYours frondly,\nPaul\n\n\n\nSir Donald Mountain, Glacier National Park"
+    "text": "Hello all! My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.\n\nIn my free time, I love to hike – bike – kayak – canoe or anything that gets me outside! On a rainy day, you will catch me reading a book, drinking ten different varieties of tea, and fixing an overdue DIY project.\n\nFeel free to reach out via LinkedIn, GitHub , or email!\nYours frondly,\nPaul\n\n\n\nSir Donald in Glacier National Park"
   },
   {
     "objectID": "publications.html#modelling-critical-habitat-for-the-eastern-whip-poor-will-antrostomus-vociferus-in-georgian-bay-ontario-comparing-the-maximum-entropy-model-and-multi-criteria-decision-analysis-framework.",
@@ -137,28 +137,28 @@
     "href": "mgem.html",
     "title": "Masters of Geomatics for Environmental Management",
     "section": "",
-    "text": "This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.\n\n\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\n\n\n\n\n\n\n\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)\n\n\n\n\n\n\nYou can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+    "text": "From August 2025 – April 2026, I completed the MGEM program at the University of British Columbia. In this program we dove into advanced geospatial topics including, but not limited to:\n\nHydrological analysis and linear referencing\nLeast cost analysis and multi-criteria analysis\nLidar, raster, sf object, and time series analysis in python and R\nData manipulation, quality assurance, and data cleaning in python and R\nAcademic writing, professional conduct, and ethics\nProject creation, analysis, and reporting"
   },
   {
     "objectID": "mgem.html#leaflet",
     "href": "mgem.html#leaflet",
     "title": "Masters of Geomatics for Environmental Management",
-    "section": "",
-    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
+    "section": "Leaflet",
+    "text": "Leaflet\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
   },
   {
     "objectID": "mgem.html#code-snippets",
     "href": "mgem.html#code-snippets",
     "title": "Masters of Geomatics for Environmental Management",
-    "section": "",
-    "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+    "section": "Code Snippets",
+    "text": "Code Snippets\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
   },
   {
     "objectID": "mgem.html#external-links",
     "href": "mgem.html#external-links",
     "title": "Masters of Geomatics for Environmental Management",
-    "section": "",
-    "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+    "section": "External links",
+    "text": "External links\nYou can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
   },
   {
     "objectID": "work_exp.html",
@@ -207,7 +207,7 @@
     "href": "hobbies.html",
     "title": "Hobbies and Interests",
     "section": "",
-    "text": "Hi! A little more about me:\nI love being outside an am an avid hiker, kayaker, biker, canoer, fisher, birder, botanist, climber, among other recreational pursuits!\n\n\n\n\n\n\n\n\n\n\n\n\nWhen I am not outside, I love reading books, playing a variety of board games, wandering around local venues, and thrifting clothes.\nNerdily enough, I have a fascination with rare plants and birds and will always plan a stop on a trip (or an entire trip) to try to see different species I have never seen before.\n\n\n\n\n\n\n\n\n\n\n\n\nFinally, you will likely see me with my film camera - where I focus mainly on the very small (macro) or the very large (landscapes)."
+    "text": "Hi! A little more about me:\nI love being outside an am an avid hiker, kayaker, biker, canoer, fisher, birder, botanist, climber, among other recreational pursuits!\n\n\n\n\n\n\n\n\n\n\nWhen I am not outside, I love reading books, playing a variety of board games, wandering around local venues, and thrifting clothes.\nNerdily enough, I have a fascination with rare plants and birds and will always plan a stop on a trip (or an entire trip) to try to see different species I have never seen before.\n\n\n\n\n\n\n\n\n\n\n\n\nFinally, you will likely see me with my film camera - where I focus mainly on the very small (macro) or the very large (landscapes)."
   },
   {
     "objectID": "hobbies.html#graduate-teaching-assistant-gta-ii",
@@ -285,5 +285,47 @@
     "title": "Professional Experience",
     "section": "Banff National Park",
     "text": "Banff National Park\n\n2020 - 2022\nBelow are some photos from my time as a Resource Conservation Student Crew Lead in Banff National Park. In this role, I had the opportunity to complete:\n\nEnvironmental DNA collection\nWater quality collection\nCABIN surveys (stream invertebrate and other health metrics)\nRiverine habitat restoration and habitat assessments\nFish stock assessments\nRangeland health assessments\nCommunity outreach and much more!"
+  },
+  {
+    "objectID": "mgem.html#summary-of-program",
+    "href": "mgem.html#summary-of-program",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "",
+    "text": "From August 2025 – April 2026, I completed the MGEM program at the University of British Columbia. In this program we dove into advanced geospatial topics including, but not limited to:\n\nHydrological analysis and linear referencing\nLeast cost analysis and multi-criteria analysis\nLidar, raster, sf object, and time series analysis in python and R\nData manipulation, quality assurance, and data cleaning in python and R\nAcademic writing, professional conduct, and ethics\nProject creation, analysis, and reporting"
+  },
+  {
+    "objectID": "mgem.html#predicting-suitable-habitat-using-maxent-and-mcda-for-the-eastern-whip-poor-will",
+    "href": "mgem.html#predicting-suitable-habitat-using-maxent-and-mcda-for-the-eastern-whip-poor-will",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "Predicting suitable habitat using MaxEnt and MCDA for the Eastern Whip-poor-will",
+    "text": "Predicting suitable habitat using MaxEnt and MCDA for the Eastern Whip-poor-will\nA core part of this program is the capstone project, where I created and compared two habitat suitability models for the Eastern Whip-poor-will in Eastern Georgian Bay, Ontario."
+  },
+  {
+    "objectID": "mgem.html#section",
+    "href": "mgem.html#section",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "",
+    "text": "In this project I compiled known locations of Whip-poor-will presence and a variety of environmental predicting variables (e.g. forest structure, tree species, distance to openings and water, etc) to create two suitability models: Maximum Entropy (MaxEnt) and Multi-Criteria Decision Analysis (MCDA).\nMaxEnt is a machine learning algorithm that relates known presence locations to the surrounding environmental variables. In constrast, MCDA relies on expert knowledge to define suitability thresholds and weights of environmental variables.\n\n\n\n\n\n\n\nThe end product are two maps that represent the spatial distribution of suitable habitat for the Eastern Whip-poor-will.\nThese maps are then subtracted from one another to elucidate areas of similarity and dissimilarity between the two models.\nThis is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages."
+  },
+  {
+    "objectID": "mgem.html#lidar-an",
+    "href": "mgem.html#lidar-an",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "LIDAR an",
+    "text": "LIDAR an\nThis is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages."
+  },
+  {
+    "objectID": "mgem.html#capstone-project",
+    "href": "mgem.html#capstone-project",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "Capstone Project",
+    "text": "Capstone Project\n\nPredicting suitable habitat using MaxEnt and MCDA for the Eastern Whip-poor-will\nA core part of this program is the capstone project, where I created and compared two habitat suitability models for the Eastern Whip-poor-will in Eastern Georgian Bay, Ontario."
+  },
+  {
+    "objectID": "mgem.html#other-projects",
+    "href": "mgem.html#other-projects",
+    "title": "Masters of Geomatics for Environmental Management",
+    "section": "Other Projects",
+    "text": "Other Projects"
   }
 ]
