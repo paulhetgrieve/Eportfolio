@@ -22,7 +22,9 @@ From August 2025 – April 2026, I completed the MGEM program at the University 
 
 A core part of this program is the capstone project, where I created and compared two habitat suitability models for the Eastern Whip-poor-will in Eastern Georgian Bay, Ontario.
 
-![](images/easternwhip.jpg)
+
+![](images/easternwhip.jpg){fig-cap="Eastern Whip-poor-will roosting" width="60%" fig-align="center" fig-number=false}
+
 --- 
 
 In this project I compiled known locations of Whip-poor-will presence and a variety of environmental predicting variables (e.g. forest structure, tree species, distance to openings and water, etc) to create two suitability models: Maximum Entropy (MaxEnt) and Multi-Criteria Decision Analysis (MCDA).

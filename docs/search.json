@@ -95,7 +95,7 @@
     "href": "mgem.html#capstone-project",
     "title": "Masters of Geomatics for Environmental Management",
     "section": "Capstone Project",
-    "text": "Capstone Project\n\nPredicting suitable habitat using MaxEnt and MCDA for the Eastern Whip-poor-will\nA core part of this program is the capstone project, where I created and compared two habitat suitability models for the Eastern Whip-poor-will in Eastern Georgian Bay, Ontario."
+    "text": "Capstone Project\n\nPredicting suitable habitat using MaxEnt and MCDA for the Eastern Whip-poor-will\nA core part of this program is the capstone project, where I created and compared two habitat suitability models for the Eastern Whip-poor-will in Eastern Georgian Bay, Ontario.\n\n\n\n\n\n\nIn this project I compiled known locations of Whip-poor-will presence and a variety of environmental predicting variables (e.g. forest structure, tree species, distance to openings and water, etc) to create two suitability models: Maximum Entropy (MaxEnt) and Multi-Criteria Decision Analysis (MCDA).\nMaxEnt is a machine learning algorithm that relates known presence locations to the surrounding environmental variables. In constrast, MCDA relies on expert knowledge to define suitability thresholds and weights of environmental variables.\n\n\n\n\n\n\n\nThe end product are two maps that represent the spatial distribution of suitable habitat for the Eastern Whip-poor-will. These maps are then subtracted from one another to elucidate areas of similarity and dissimilarity between the two models.\n\nHigh suitability areas in either model were evaluated for future conservation easements by the Georgian Bay Land Trust."
   },
   {
     "objectID": "mgem.html#section",
