@@ -33,16 +33,16 @@ In this role:
 
 :::: {.columns}
 
-::: {.column width="33%"}
-![](images/treeclimb.jpg){height="532px" width="400px"}
+::: {.column}
+![](images/treeclimb.jpg){width = "100%"}
 :::
 
-::: {.column width="33%"}
-![](images/ursus.jpg){height="532px" width="400px"}
+::: {.column}
+![](images/ursus.jpg){width = "100%"}
 :::
 
-::: {.column width="33%"}
-![](images/planting.jpg){height="532px" width="400px"}
+::: {.column}
+![](images/planting.jpg){width = "100%"}
 :::
 
 ::::
