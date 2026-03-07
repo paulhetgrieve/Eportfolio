@@ -109,7 +109,7 @@
     "href": "mgem.html#other-projects",
     "title": "Masters of Geomatics for Environmental Management",
     "section": "Other Projects",
-    "text": "Other Projects"
+    "text": "Other Projects\n\n1. LiDAR Forest Structure Analysis – Alex Fraser Research Forest\nDeveloped a suite of LiDAR-derived forest products for the Alex Fraser Research Forest using discrete-return airborne LiDAR data and field plot measurements. A digital elevation model (DEM) and canopy height model (CHM) were generated at 2 m resolution, and LiDAR metrics were used to build statistical models predicting total aboveground biomass and dominant tree height. The final models were applied across the landscape to produce wall-to-wall spatial predictions of forest structure and biomass.\nInteractive report\n\n\n2."
   },
   {
     "objectID": "work_exp.html",

@@ -54,3 +54,18 @@ High suitability areas in either model were evaluated for future conservation ea
 
 ## Other Projects
 
+### 1. LiDAR Forest Structure Analysis – Alex Fraser Research Forest
+
+Developed a suite of LiDAR-derived forest products for the Alex Fraser Research Forest using discrete-return airborne LiDAR data and field plot measurements. A digital elevation model (DEM) and canopy height model (CHM) were generated at 2 m resolution, and LiDAR metrics were used to build statistical models predicting total aboveground biomass and dominant tree height. The final models were applied across the landscape to produce wall-to-wall spatial predictions of forest structure and biomass.
+
+[Interactive report](https://paulhetgrieve.github.io/lidar-forest-structure-analysis/lidar_tree_segmentation.html)
+
+
+
+### 2. 
+
+
+
+
+
+
