@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: About me
 image: "images/profile_icon.png"
 about:
   template: trestles
