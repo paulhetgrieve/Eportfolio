@@ -1,5 +1,5 @@
 ---
-title: "Paul's E-Portfolio"
+title: Introduction
 image: "images/profile_icon.png"
 about:
   template: trestles
@@ -15,8 +15,6 @@ about:
       text: Email
       href: mailto:pgrieve@student.ubc.ca
 ---
-
-## Introductions
 
 Hello all! 
 My name is Paul and I have worked in ecological restoration and resource management since completing my undergraduate in 2020 from the University of Victoria. Through working for a variety of non-profits, land trusts, and governmental organizations, I have become well versed in field work, geospatial data manipulation and analysis, visualizing results, and effectively communicating results to diverse stakeholders.
