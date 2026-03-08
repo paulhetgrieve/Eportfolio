@@ -51,7 +51,7 @@ These maps are then subtracted from one another to elucidate areas of similarity
 High suitability areas in either model were evaluated for future conservation easements by the Georgian Bay Land Trust.
 
 More information on my capstone project:
-[Report](https://paulhetgrieve.github.io/wpw_capstone/)
+[Capstone Report](https://paulhetgrieve.github.io/wpw_capstone/)
 
 ---
 
@@ -61,7 +61,7 @@ More information on my capstone project:
 
 Developed a suite of LiDAR-derived forest products for the Alex Fraser Research Forest using discrete-return airborne LiDAR data and field plot measurements. A digital elevation model (DEM) and canopy height model (CHM) were generated at 2 m resolution, and LiDAR metrics were used to build statistical models predicting total aboveground biomass and dominant tree height. The final models were applied across the landscape to produce wall-to-wall spatial predictions of forest structure and biomass.
 
-[Report](https://paulhetgrieve.github.io/LIDAR_AKRF/)
+[LIDAR Report](https://paulhetgrieve.github.io/LIDAR_AKRF/)
 
 
 
@@ -69,12 +69,12 @@ Developed a suite of LiDAR-derived forest products for the Alex Fraser Research 
 
 Modeled potential grizzly bear movement corridors across the Rocky Mountain foothills of western Alberta using raster-based least cost path analysis. Environmental predictors including slope, land cover, and distance to roads were converted into movement cost surfaces and combined into a weighted resistance model. The final analysis identified the lowest-cost travel route between core habitat areas, highlighting how landscape features and human disturbance influence wildlife connectivity.
 
-[Report](https://paulhetgrieve.github.io/Least_Cost_Analysis/)
+[Least Cost Report](https://paulhetgrieve.github.io/Least_Cost_Analysis/)
 
 ### 3. Old-Growth Forest Assessment – Vancouver Island
 
 This project analyzes the distribution of old-growth forests across Vancouver Island using the Vegetation Resource Inventory (VRI) dataset and cartographic modelling techniques. Forest stands were classified into seral stages based on age and biogeoclimatic zone, and intersected with land ownership, disturbance, and landscape unit boundaries. The final analysis calculated the percentage of old growth within each landscape unit and compared these values to provincial biodiversity targets to identify areas where conservation objectives are being met or exceeded.
 
-[Report](https://paulhetgrieve.github.io/oldgrowth_locations/)
+[Forest Assessment Report](https://paulhetgrieve.github.io/oldgrowth_locations/)
 
 
